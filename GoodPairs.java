@@ -1,3 +1,5 @@
+// LEETCODE
+//1512. Number of Good Pairs
 class GoodPairs {
     public int numIdenticalPairs(int[] nums) {
         int count = 0;        
